@@ -15,6 +15,8 @@ Install the dependencies:
 ```bash
 cd laravel-tenancy
 composer install
+composer update
+npm install
 ```
 
 Copy the `.env.example` file to `.env`:
