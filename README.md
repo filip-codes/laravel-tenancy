@@ -15,7 +15,6 @@ Install the dependencies:
 ```bash
 cd laravel-tenancy
 composer install
-composer update
 npm install
 ```
 
